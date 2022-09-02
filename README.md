@@ -1,1 +1,1 @@
-testing 
+Getting started with CBT software 
